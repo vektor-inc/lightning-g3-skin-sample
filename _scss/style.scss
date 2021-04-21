@@ -1,7 +1,11 @@
 @charset "utf-8";
 
-@import "global-nav-effect";
+/**
+* 公開画面用CSS
+*/
+
 @import "common";
+@import "global-nav-effect";
 
 .site-header {
     background-color: #fff;
