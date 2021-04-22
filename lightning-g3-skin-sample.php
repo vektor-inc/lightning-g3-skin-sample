@@ -1,15 +1,15 @@
 <?php
 /**
- * Plugin Name:     Lightning G3 Skin Sample
- * Plugin URI:
- * Description:
- * Author:
- * Author URI:
- * Text Domain:     lightning-g3-skin-sample
+ * Plugin Name:     Lightning G3 Skin Sample（プラグインの名前）
+ * Plugin URI:      （プラグインの解説ページのURL）
+ * Description:     （プラグインの説明）
+ * Author:          （作者名）
+ * Author URI:      （作者のサイトのURL）
+ * Text Domain:     lightning-g3-skin-sample（プラグイン固有の識別名）
  * Domain Path:     /languages
  * Version:         0.0.0
  *
- * @package         LIGHTNING_G3_SKIN_SAMPLE
+ * @package         LIGHTNING_G3_SKIN_SAMPLE（プラグイン固有の識別名）
  */
 
 $current_theme = get_template();
