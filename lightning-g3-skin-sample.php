@@ -7,7 +7,7 @@
  * Author URI:      （作者のサイトのURL）
  * Text Domain:     lightning-g3-skin-sample（プラグイン固有の識別名）
  * Domain Path:     /languages
- * Version:         0.0.0
+ * Version:         0.0.1
  *
  * @package         LIGHTNING_G3_SKIN_SAMPLE（プラグイン固有の識別名）
  */
