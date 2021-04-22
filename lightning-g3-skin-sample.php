@@ -34,10 +34,9 @@ function ltg3_add_skin_sample( $skins ) {
 		// プラグインディレクトリ名を変更
 		'editor_css_path_relative' => '../../plugins/lightning-g3-skin-sample/css/editor.css',
 		// スキン固有の処理を入れる場合（非推奨）
-		'php_path'                 => plugin_dir_path( __FILE__ ) . '/functions.php',
-		'js_path'                  => '',
+		// 'php_path'                 => plugin_dir_path( __FILE__ ) . '/functions.php',
+		// 'js_url'                   => plugin_dir_url( __FILE__ ) . '/js/script.js',
 		'version'                  => $data['version'],
-		'bootstrap'                => '',
 	);
 	return $skins;
 }
