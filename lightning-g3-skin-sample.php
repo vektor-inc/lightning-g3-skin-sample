@@ -29,7 +29,7 @@ function ltg3_add_skin_sample( $skins ) {
 	$skins['sample'] = array(
 		// label が Lightning デザイン設定 のスキン選択プルダウンに表示される名称
 		'label'                    => __( 'Sample Skin G3', 'lightning-g3-skin-sample' ),
-		'css_url'                  => plugin_dir_url( __FILE__ ) . '/css/style.css',
+		'css_url'                  => plugin_dir_url( __FILE__ ) . 'css/style.css',
 		'css_path'                 => plugin_dir_path( __FILE__ ) . '/css/style.css',
 		// プラグインディレクトリ名を変更
 		'editor_css_path_relative' => '../../plugins/lightning-g3-skin-sample/css/editor.css',
