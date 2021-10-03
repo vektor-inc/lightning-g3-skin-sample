@@ -71,7 +71,7 @@ $ npm run watch
 ### インストール用などに出力
 
 ```
-$ gulp dist
+$ npx gulp dist
 ```
 
 で出力できます。
