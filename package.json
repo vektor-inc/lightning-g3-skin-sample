@@ -24,7 +24,7 @@
     "phpunit:mac": "wp-env run phpunit 'phpunit -c /var/www/html/wp-content/plugins/lightning-g3-pro-unit/phpunit.xml.dist --verbose'"
   },
   "devDependencies": {
-    "@wordpress/env": "^4.0.4",
+    "@wordpress/env": "^12.1.0",
     "autoprefixer": "^10.3.4",
     "cssnano": "^5.0.4",
     "grunt": "~1.4.0",
